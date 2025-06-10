@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **EUREKA TIDIANE**
 - 👀 I’m interested in the **Coding**...
-- 🌱 I’m currently learning several langage of programmation **PHP LARAVEL / Bootstrap Tailwind/ SAAS / CRM & Dashboards / Html 5 / Css 3  / GCP / ABD / Python / JavaScript / NodeJs( ReactJS NextJS VusJS)** 
+- 🌱 I’m currently learning several langage of programmation **NESTJS | API REST | PHP LARAVEL / Bootstrap Tailwind / SAAS / CRM & Dashboards / Html 5 / Css 3  / GCP / ABD / Python / JavaScript / NodeJs( ReactJS NextJS)** 
 - **Update : Dart Flutter and Erp Odoo \...**...
 - **AGILE DEV, UML EssUP, Figma Designer web/mobile UI UX**
 - 💞️ I’m looking to collaborate with Entreprises and Star-Up...💡💻
